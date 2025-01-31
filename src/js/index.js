@@ -7,9 +7,9 @@ botoesCarrossel.forEach((botao, indice) => {
         desativarBotaoSelecionado();
         selecionarBotaoCarrosel(botao);
 
-        
         esconderImagemAtiva();
 
+      
         mostrarImagemDeFundo(indice);
     })
 })
