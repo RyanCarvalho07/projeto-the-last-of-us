@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *{
  margin: 0;
  padding:0;
@@ -13,4 +14,21 @@ ul{
 
 a{
     text-decoration: none;
+=======
+*{
+ margin: 0;
+ padding:0;
+ box-sizing: border-box;
+ 
+}
+
+ul{
+
+    list-style: none
+;
+}
+
+a{
+    text-decoration: none;
+>>>>>>> 285e16acc02f49b5670e851bf3a53f884f068f35
 }
